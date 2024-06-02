@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DIQFojbVUmva2cnj50Mb3U6ebM/qtOwZgSzEwKPNIHk=",
+  "Source": "myWebsiteAPIServer",
+  "BasePath": "_content/myWebsiteAPIServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
